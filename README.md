@@ -9,6 +9,6 @@ Here we have taken the machine learning approach, whereby the library Tensorflow
 after these we train the data. regression technique of categorical-crossentrpy is used to find the difference between the highest point and lowest point of slope.
 softmax activation function is used for pushing the data in range of 0 to 1.
 
-references
+References
 1) https://www.youtube.com/watch?v=si8zZHkufRY
 2) https://www.tensorflow.org/
